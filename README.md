@@ -45,7 +45,7 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=codeblock&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg style=flat)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
   ![AfterEffects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-after-effects)
