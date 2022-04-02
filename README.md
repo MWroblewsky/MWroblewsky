@@ -38,8 +38,8 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
-  ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
+  ![XD](https://img.shields.io/badge/-Xd-333333?style=flat&logo=adobe-xd)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
 
