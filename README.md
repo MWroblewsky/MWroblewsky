@@ -10,7 +10,10 @@
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+- 📱 &nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -36,10 +39,6 @@
   ![XD](https://img.shields.io/badge/-Xd-333333?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
-- 📱 &nbsp;
-    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
