@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://www.mateuszwroblewski.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mateuszwroblewski.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://https://www.linkedin.com/in/mateusz-wr%C3%B3blewski-a42aba1b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateusz%20Ernest%20Wróblewski-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mateusz-wr%C3%B3blewski-a42aba1b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateusz%20Ernest%20Wróblewski-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mewroblewsky/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mewroblewsky-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mateuszwroblewsky@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mateuszwroblewsky@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
