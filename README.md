@@ -44,6 +44,8 @@
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
 - 🖨 &nbsp;
   ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+  ![PowerPoint](https://img.shields.io/badge/-PowerPoint-333333?style=flat&logo=microsoft-powerpoint)
 <br/>
 
 <a href="https://github.com/MWroblewsky">
