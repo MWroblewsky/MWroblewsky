@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<div class="sketchfab-embed-wrapper"> <iframe title="The Gate" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/9859458cf4db45de920b4d2dba8db8ba/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/the-gate-9859458cf4db45de920b4d2dba8db8ba?utm_medium=embed&utm_campaign=share-popup&utm_content=9859458cf4db45de920b4d2dba8db8ba" target="_blank" style="font-weight: bold; color: #1CAAD9;"> The Gate </a> by <a href="https://sketchfab.com/andrewmelfi?utm_medium=embed&utm_campaign=share-popup&utm_content=9859458cf4db45de920b4d2dba8db8ba" target="_blank" style="font-weight: bold; color: #1CAAD9;"> andrewmelfi </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=9859458cf4db45de920b4d2dba8db8ba" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 <h2> Hey there! I'm Mateusz.</h2>
 
@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mateuszwroblewski.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mateuszwroblewski.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.mateuszwroblewsky.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mateuszwroblewski.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mateusz-wr%C3%B3blewski-a42aba1b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateusz%20Ernest%20Wróblewski-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mewroblewsky/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mewroblewsky-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mateuszwroblewsky@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mateuszwroblewsky@gmail.com-blue?style=flat-square&logo=gmail"></a>
