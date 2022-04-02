@@ -17,16 +17,19 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-  ![PHP](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+- 🌐 Web Developer &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+- 📱 &nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
