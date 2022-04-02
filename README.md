@@ -32,7 +32,7 @@
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Ilustrator-333333?style=flat&logo=adobe-ilustrator)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
   ![AfterEffects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-after-effects)
