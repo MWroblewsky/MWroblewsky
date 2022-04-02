@@ -31,7 +31,16 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-- 🛢 &nbsp;
+- 🖥 &nbsp;
+  ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+  ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
+  ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=indesign)
+  ![XD](https://img.shields.io/badge/-Xd-333333?style=flat&logo=xd)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
+  - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -43,15 +52,6 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=codeblock&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-  ![InDesign](https://aleen42.github.io/badges/src/indesign.svg)
-  ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
-  ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)
-  ![XD](https://aleen42.github.io/badges/src/xd.svg)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
 - 📽 &nbsp;
   ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
