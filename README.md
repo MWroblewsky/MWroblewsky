@@ -35,7 +35,7 @@
   ![Illustrator](https://img.shields.io/badge/-Ilustrator-333333?style=flat&logo=adobe-ilustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-  ![AfterEffects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-aftere-ffects)
+  ![AfterEffects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-after-effects)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   ![XD](https://img.shields.io/badge/-Xd-333333?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
