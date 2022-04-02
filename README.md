@@ -37,7 +37,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
 - 📱 &nbsp;
-   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 - 🛢 &nbsp;
