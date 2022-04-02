@@ -42,7 +42,8 @@
   ![XD](https://img.shields.io/badge/-Xd-333333?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
-
+- 🖨 &nbsp;
+  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
 <br/>
 
 <a href="https://github.com/MWroblewsky">
